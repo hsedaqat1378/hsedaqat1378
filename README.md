@@ -1,5 +1,7 @@
 ### Hi there I'm Hosein Sedaqat 👋
 
+<br>
+
 <div align="center">
   <img width=55% src="https://i.imgur.com/8MupZHY.gif" />
 </div>
