@@ -13,8 +13,8 @@
 ## ⚙️ GitHub Analytics
 <p align="center">
   <a href="https://github.com/hsedaqat1378">
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsedaqat1378&layout=compact&theme=material-palenight&langs_count=12" />
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=hsedaqat1378&show_icons=true&include_all_commits=true&theme=material-palenight" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsedaqat1378&layout=compact&theme=material-palenight&langs_count=12" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=hsedaqat1378&show_icons=true&include_all_commits=true&theme=material-palenight" />
   </a>
 </p>
 	
