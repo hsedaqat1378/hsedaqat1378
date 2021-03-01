@@ -1,10 +1,10 @@
+### Hi there I'm Hosein Sedaqat 👋
+
 <div align="center">
   <img width=55% src="https://i.imgur.com/8MupZHY.gif" />
 </div>
   
 <br> 
-
-### Hi there I'm Hosein Sedaqat 👋
 
 ## 🌱 I’m currently learning :
  * {{ Javascript and try to better in Front-end Specialy Vuejs/Nuxtjs }}
