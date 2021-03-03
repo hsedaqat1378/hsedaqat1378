@@ -26,6 +26,6 @@
 * Telegram: @HoseinSedaqat
 
 ## 🐠 Fact : 
-* I spend most of my time programming 💻 / reading books 📚 / movies 🎞 / and taking college classes i passed 🤦‍ 
+* I spend most of my time programming 💻 / reading books 📚 / Watching movies 🎞 / and taking college classes i passed 🤦‍ 
 
 
