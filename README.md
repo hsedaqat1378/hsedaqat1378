@@ -9,7 +9,7 @@
 <br> 
 
 ## 🌱 I’m currently learning :
- * {{ Javascript and try to better in Front-end Specialy Vuejs/Nuxtjs }}
+ * {{ Javascript and currently learn back end with => Nodejs }}
  * <what I'm doing> Work on my Traning Project  </what I'm doing>
 
 ## ⚙️ GitHub Analytics
