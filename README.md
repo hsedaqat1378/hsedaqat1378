@@ -22,7 +22,6 @@
 	
 ## 📫 How to reach me: 
 * Email: hsedaqat1378@gmail.com 
-* Instagram: @HoseinSedaqat
 * Telegram: @HoseinSedaqat
 
 ## 🐠 Fact : 
