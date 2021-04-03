@@ -23,6 +23,7 @@
 ## 📫 How to reach me: 
 * Email: hsedaqat1378@gmail.com 
 * Telegram: @HoseinSedaqat
+* linkedin: HoseinSedaqat
 
 ## 🐠 Fact : 
 * I spend most of my time programming 💻 / reading books 📚 / Watching movies 🎞 / and taking college classes i passed 🤦‍ 
