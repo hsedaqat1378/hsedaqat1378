@@ -27,5 +27,6 @@
 
 ## 🐠 Fact : 
 * I spend most of my time programming 💻 / reading books 📚 / Watching movies 🎞 / and taking college classes i passed 🤦‍ 
+* i like sport specially running 🏃‍ because helping for me to better performance in day
 
 
