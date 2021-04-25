@@ -24,7 +24,7 @@
 * Email: hsedaqat1378@gmail.com 
 * Telegram: @HoseinSedaqat
 * linkedin: HoseinSedaqat
-* in summary just search Hosein Sedaqat in google reach me quickly 
+* in summary just search Hosein Sedaqat in google reach me quickly 😎 
 
 ## 🐠 Fun Fact : 
 * I spend most of my time programming 💻 / reading books 📚 / Watching movies 🎞 / and taking college classes i passed 🤦‍ 
