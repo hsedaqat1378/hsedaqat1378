@@ -22,7 +22,6 @@
 	
 ## 📫 How to reach me: 
 * Email: hsedaqat1378@gmail.com 
-* Telegram: @HoseinSedaqat
 * linkedin: HoseinSedaqat
 * in summary just search Hosein Sedaqat in google reach me quickly 😎 
 
