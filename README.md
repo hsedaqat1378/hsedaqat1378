@@ -28,6 +28,5 @@
 ## 🐠 Fun Fact : 
 * I spend most of my time programming 💻 
 * reading books 📚 and Watching movies 🎞 
-* i like sport specially running 🏃‍ 
 
 
