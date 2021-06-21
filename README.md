@@ -6,7 +6,7 @@
   <tr>
     <td width="2%"></td>
     <td width="96%">
-      <a href="https://willbinns.org/">
+      <a href="https://hoseinsedaqat.github.io/">
         <img src="https://github.com/wbnns/wbnns/raw/master/future.gif">
       </a>
     </td>
