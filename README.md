@@ -17,7 +17,7 @@
 <br> 
 
 ## 🌱 I’m currently learning :
- * {{ Javascript and currently learn back end with => const Nodejs = require('nodejs') }}
+ * {{ Focus on Javascript }}
  * <what I'm doing> Work on my Traning Project  </what I'm doing>
 
 ## ⚙️ GitHub Analytics
